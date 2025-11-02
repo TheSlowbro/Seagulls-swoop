@@ -11,5 +11,5 @@ Leaderboard for both modes
 Credits (so far it's me for some of DS code and all of scratch port, I need help for windows support or Wii U, if you help at all even a very small bit your in the credits)
 Maybe coming - Windows and Wii U
 # What do i need help with
-Some DS code that makes it so it shows up and has a menu to pick the modes, window port, Wii U port and take your time
+Some DS code that makes it so it shows up and has a menu to pick the modes, window port, Wii U port and take your time. I want the game menu to be themed after australia.
 # I DONT WANT THE PORT RUSHED SO TAKE TIME ON IT
