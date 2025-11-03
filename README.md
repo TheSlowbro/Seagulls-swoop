@@ -8,7 +8,7 @@ Item box mode
 No item box
 Snake (bonus game) 
 Leaderboard for both modes
-Credits (so far it's me for some of DS code and all of scratch port, I need help for windows support. if you help at all even a very small bit your in the credits)
+Credits (so far it's me for some of DS code and all of scratch port and any other ports. if you help at all even a very small bit your in the credits)
 Maybe coming - Windows and Wii U
 # What do i need help with
 Some DS code that makes it so it shows up and has a menu to pick the modes, take your time. I want the game menu to be themed after australia.
